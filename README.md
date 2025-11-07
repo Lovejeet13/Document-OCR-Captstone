@@ -27,7 +27,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/manavagarwal123/Document-OCR-Captstone.git
+git clone https://github.com/lovejeet13/Document-OCR-Captstone.git
 cd Document-OCR-Captstone
 ```
 
